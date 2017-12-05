@@ -1,0 +1,4 @@
+E:\School Stuff\Homework\CS 5700\SudokuSolver\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.dll
+E:\School Stuff\Homework\CS 5700\SudokuSolver\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.pdb
+E:\School Stuff\Homework\CS 5700\SudokuSolver\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.dll
+E:\School Stuff\Homework\CS 5700\SudokuSolver\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.pdb

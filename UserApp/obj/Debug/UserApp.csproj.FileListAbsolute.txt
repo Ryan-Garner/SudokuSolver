@@ -1,0 +1,8 @@
+E:\School Stuff\Homework\CS 5700\SudokuSolver\SudokuSolver\UserApp\bin\Debug\UserApp.exe
+E:\School Stuff\Homework\CS 5700\SudokuSolver\SudokuSolver\UserApp\bin\Debug\SudokuSolver.dll
+E:\School Stuff\Homework\CS 5700\SudokuSolver\SudokuSolver\UserApp\bin\Debug\UserApp.exe.config
+E:\School Stuff\Homework\CS 5700\SudokuSolver\SudokuSolver\UserApp\obj\Debug\UserApp.exe
+E:\School Stuff\Homework\CS 5700\SudokuSolver\SudokuSolver\UserApp\obj\Debug\UserApp.pdb
+E:\School Stuff\Homework\CS 5700\SudokuSolver\SudokuSolver\UserApp\bin\Debug\SudokuSolver.pdb
+E:\School Stuff\Homework\CS 5700\SudokuSolver\SudokuSolver\UserApp\obj\Debug\UserApp.csprojResolveAssemblyReference.cache
+E:\School Stuff\Homework\CS 5700\SudokuSolver\SudokuSolver\UserApp\bin\Debug\UserApp.pdb

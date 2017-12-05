@@ -1,0 +1,7 @@
+E:\School Stuff\Homework\CS 5700\SudokuSolver\SudokuSolver\TestBoards\bin\Debug\TestBoards.dll
+E:\School Stuff\Homework\CS 5700\SudokuSolver\SudokuSolver\TestBoards\bin\Debug\TestBoards.pdb
+E:\School Stuff\Homework\CS 5700\SudokuSolver\SudokuSolver\TestBoards\bin\Debug\SudokuSolver.dll
+E:\School Stuff\Homework\CS 5700\SudokuSolver\SudokuSolver\TestBoards\bin\Debug\SudokuSolver.pdb
+E:\School Stuff\Homework\CS 5700\SudokuSolver\SudokuSolver\TestBoards\obj\Debug\TestBoards.csprojResolveAssemblyReference.cache
+E:\School Stuff\Homework\CS 5700\SudokuSolver\SudokuSolver\TestBoards\obj\Debug\TestBoards.dll
+E:\School Stuff\Homework\CS 5700\SudokuSolver\SudokuSolver\TestBoards\obj\Debug\TestBoards.pdb
